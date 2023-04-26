@@ -1,0 +1,48 @@
+{
+    "name": "Faiza Afrin",
+    "email": "afrin@gmail.com",
+    "phone": "+91 81484*****",
+    "address": {
+      "street": "123 North Street",
+      "city": "Chennai",
+      "state": "TamilNadu",
+      "country": "India"
+    },
+    "summary": "Experienced in  software development with a strong background in full-stack development.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDb",
+      "SQL",
+      "AWS",
+      "Salesforce"
+    ],
+   
+    "education": [
+      {
+        "degree": "Bachelor of Arts in English and Communication",
+        "Universuty": "Annamalai University",
+        "startDate": "01-08-2013",
+        "endDate": "30-05-2016"
+      }
+    ],
+
+    "certification":[
+      {
+        "course" : "Full-stack Development",
+        "Institution": "Guvi",
+        "Duration": "5 monthhs",
+        "startDate": "08-12-2022",
+        "endDate": "present"
+       },
+
+       {
+        "course" : "Salesforce Admin and App Builder",
+        "Institution": "Edureka",
+        "Duration": "3 months",
+        "startDate": "01-10-2021",
+        "endDate": "26-12-2021"
+       }
+    ]
+  }
